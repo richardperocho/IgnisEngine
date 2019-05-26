@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SandBox", "SandBox\SandBox.vcxproj", "{DC335587-DF17-47A4-AA54-6C14119EC28D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ignis", "Ignis\Ignis.vcxproj", "{0FB6F670-1CD1-4239-B358-D6F650F853B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FB6F670-1CD1-4239-B358-D6F650F853B1}.Debug|x64.ActiveCfg = Debug|x64
+		{0FB6F670-1CD1-4239-B358-D6F650F853B1}.Debug|x64.Build.0 = Debug|x64
+		{0FB6F670-1CD1-4239-B358-D6F650F853B1}.Release|x64.ActiveCfg = Release|x64
+		{0FB6F670-1CD1-4239-B358-D6F650F853B1}.Release|x64.Build.0 = Release|x64
+		{DC335587-DF17-47A4-AA54-6C14119EC28D}.Debug|x64.ActiveCfg = Debug|x64
+		{DC335587-DF17-47A4-AA54-6C14119EC28D}.Debug|x64.Build.0 = Debug|x64
+		{DC335587-DF17-47A4-AA54-6C14119EC28D}.Release|x64.ActiveCfg = Release|x64
+		{DC335587-DF17-47A4-AA54-6C14119EC28D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9A73131-EB07-4942-BBD2-52492BBC08E0}
+	EndGlobalSection
+EndGlobal
